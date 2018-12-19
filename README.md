@@ -19,3 +19,5 @@ Development
 Sample API For Testing
   http://localhost:[port]/api/sample
 ```
+#### Having an issue or problem, and suggestion?
+[Open an Issue](https://github.com/josecarlosanpedro/.NetCore-Stater-Kit/issues)
