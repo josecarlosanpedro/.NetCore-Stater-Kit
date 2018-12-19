@@ -1,0 +1,11 @@
+C:\Users\Carlo-Ubidy\Documents\PlayGround\dotNetCore-Starter-Kit\src\StarterKit\bin\Debug\netcoreapp2.0\StaterKit.deps.json
+C:\Users\Carlo-Ubidy\Documents\PlayGround\dotNetCore-Starter-Kit\src\StarterKit\bin\Debug\netcoreapp2.0\StaterKit.runtimeconfig.json
+C:\Users\Carlo-Ubidy\Documents\PlayGround\dotNetCore-Starter-Kit\src\StarterKit\bin\Debug\netcoreapp2.0\StaterKit.runtimeconfig.dev.json
+C:\Users\Carlo-Ubidy\Documents\PlayGround\dotNetCore-Starter-Kit\src\StarterKit\bin\Debug\netcoreapp2.0\StaterKit.dll
+C:\Users\Carlo-Ubidy\Documents\PlayGround\dotNetCore-Starter-Kit\src\StarterKit\bin\Debug\netcoreapp2.0\StaterKit.pdb
+C:\Users\Carlo-Ubidy\Documents\PlayGround\dotNetCore-Starter-Kit\src\StarterKit\obj\Debug\netcoreapp2.0\StaterKit.csprojAssemblyReference.cache
+C:\Users\Carlo-Ubidy\Documents\PlayGround\dotNetCore-Starter-Kit\src\StarterKit\obj\Debug\netcoreapp2.0\StaterKit.csproj.CoreCompileInputs.cache
+C:\Users\Carlo-Ubidy\Documents\PlayGround\dotNetCore-Starter-Kit\src\StarterKit\obj\Debug\netcoreapp2.0\StaterKit.AssemblyInfoInputs.cache
+C:\Users\Carlo-Ubidy\Documents\PlayGround\dotNetCore-Starter-Kit\src\StarterKit\obj\Debug\netcoreapp2.0\StaterKit.AssemblyInfo.cs
+C:\Users\Carlo-Ubidy\Documents\PlayGround\dotNetCore-Starter-Kit\src\StarterKit\obj\Debug\netcoreapp2.0\StaterKit.dll
+C:\Users\Carlo-Ubidy\Documents\PlayGround\dotNetCore-Starter-Kit\src\StarterKit\obj\Debug\netcoreapp2.0\StaterKit.pdb
